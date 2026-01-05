@@ -5332,3 +5332,21 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.05-14.39.34:859][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18342.921875
 [2026.01.05-14.39.35:859][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.05-14.39.35:859][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18343.589844, Update Interval: 305.837585
+[2026.01.05-14.45.01:775][592]LogTexture: Display: Building textures: /Game/Maps/Lvl_rendu.Lvl_rendu:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2026.01.05-14.45.02:968][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.05-14.45.03:020][638]LogTexture: Display: Building textures: /Game/Maps/Lvl_rendu.Lvl_rendu:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2026.01.05-14.45.03:020][638]LogTexture: Display: Building textures: /Game/Maps/Lvl_rendu.Lvl_rendu:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.01.05-14.45.03:034][638]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Lvl_rendu/D/8V/VLSZE2VBPZSXY6D3JFBHQ5
+[2026.01.05-14.45.03:035][638]LogSavePackage: Moving '../../../../../../Users/p.baudinet/Documents/GitHub/UE5/MirrorsEdgeLD/Saved/VLSZE2VBPZSXY6D3JFBHQ515B123204FF257F40839609C85DEA07B.tmp' to '../../../../../../Users/p.baudinet/Documents/GitHub/UE5/MirrorsEdgeLD/Content/__ExternalActors__/Maps/Lvl_rendu/D/8V/VLSZE2VBPZSXY6D3JFBHQ5.uasset'
+[2026.01.05-14.45.03:179][638]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Lvl_rendu/A/TU/THLEGW506JZR7QRDE9SZYR
+[2026.01.05-14.45.03:180][638]LogSavePackage: Moving '../../../../../../Users/p.baudinet/Documents/GitHub/UE5/MirrorsEdgeLD/Saved/THLEGW506JZR7QRDE9SZYR9BB0897F4BCBE9FAA0E039BE5129F98B.tmp' to '../../../../../../Users/p.baudinet/Documents/GitHub/UE5/MirrorsEdgeLD/Content/__ExternalActors__/Maps/Lvl_rendu/A/TU/THLEGW506JZR7QRDE9SZYR.uasset'
+[2026.01.05-14.45.03:195][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.370 ms (total: 9.91 sec)
+[2026.01.05-14.45.03:249][638]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.05-14.45.03:250][638]LogContentValidation: Enabled validators:
+[2026.01.05-14.45.03:250][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.05-14.45.03:250][638]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.05-14.45.03:250][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.05-14.45.03:250][638]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.05-14.45.03:250][638]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.05-14.45.03:250][638]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.05-14.45.03:250][638]AssetCheck: /Game/Maps/Lvl_rendu Validating asset
