@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/YB/C5UDZYKFL5M0YW62JXMPIZ.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/6W/ATAAOSA07IO1KQNSGRGZOW.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/AD/8G9ON3XMKIDV6SCW67LCWL.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/KE/BO0MQCLS9LCM7ZH0SNDN5D.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XF/EBPINGV9XCCT9OET21NW0V.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/AB/T2I7O1R0R4VGSL8RC03IVL.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/S2/LR1WYVIABK7BIUTI31CG7V.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/SF/N34AV3NJ6ZIEK8C2MJC8BW.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/2X/N7JDNR8PLFO3PWK9GQCAZP.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/V4/2ONGTC48MI5HYGX7LL0CNN.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/G3/BALTN9N2YJX3KK866C862B.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/W4/739UGH3M61XLB66NW6QP85.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/YL/WJ3R0BNG7DRSMRQ2H2AE28.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/NR/VF0I1ABHHTUSTZQ5E2YY5Y.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/I1/QLT152GPV5QK8F4UUCC17G.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/Blueprints/BP_Message.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/Q2/274DZ7Q7LBOLG82WIC0A1L.uasset",
+				"C:/Users/p.baudinet/Documents/Unreal Projects/Rubika/First_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/AE/MKSWKPLCGXF5YZA3E6V77V.uasset"
+			]
+		}
+	]
+}
